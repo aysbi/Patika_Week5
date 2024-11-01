@@ -1,4 +1,4 @@
-# Hafta 5 - Pratikler 
+# Hafta 5 - Array Pratik
 ## Soru
 Bu pratikte aşağıdaki 4 aşamayı kodlamanız isteniyor.
 
