@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week5_Pratik2", "Week5_Prat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week5_Pratik3", "Week5_Pratik3\Week5_Pratik3.csproj", "{38849E1B-C1C5-4845-941D-E0E9FBCC1685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5_Pratik4", "Week5_Pratik4\Week5_Pratik4.csproj", "{DED989D8-1C6F-4720-8573-747E63BD2859}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week5_Pratik4", "Week5_Pratik4\Week5_Pratik4.csproj", "{DED989D8-1C6F-4720-8573-747E63BD2859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5_Pratik5", "Week5_Pratik5\Week5_Pratik5.csproj", "{4147EF0C-653B-4462-8C47-271CF8B8B1B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week5_Pratik5", "Week5_Pratik5\Week5_Pratik5.csproj", "{4147EF0C-653B-4462-8C47-271CF8B8B1B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5_Kapanis", "Week5_Kapanis\Week5_Kapanis.csproj", "{F6AE5CEC-94C9-4416-BA5F-5552C6E0BD10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4147EF0C-653B-4462-8C47-271CF8B8B1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4147EF0C-653B-4462-8C47-271CF8B8B1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4147EF0C-653B-4462-8C47-271CF8B8B1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AE5CEC-94C9-4416-BA5F-5552C6E0BD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AE5CEC-94C9-4416-BA5F-5552C6E0BD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AE5CEC-94C9-4416-BA5F-5552C6E0BD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AE5CEC-94C9-4416-BA5F-5552C6E0BD10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
